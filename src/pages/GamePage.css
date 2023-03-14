@@ -1,0 +1,17 @@
+.game_page_header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  margin-left: 35px;
+  margin-top: 35px;
+}
+
+.game_page_body {
+  width: 1400px;
+  height: 351px;
+
+  position: relative;
+
+  margin-top: 260px;
+}
